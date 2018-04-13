@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1522089669 source:c:\eli\curso utn\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1522090205 c:\eli\curso utn\tp1\funciones.h
+
+1522627563 source:c:\utn\programacion i\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1522628061 c:\utn\programacion i\tp1\funciones.h
+
+1523384611 source:c:\eli\utn\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523469652 c:\eli\utn\tp1\funciones.h
+	"funciones.c"
+
+1523469715 c:\eli\utn\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523500126 source:c:\utn\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523500283 c:\utn\tp1\funciones.h
+
+1523499697 source:c:\utn\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523469716 c:\utn\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523500128 source:e:\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523500284 e:\tp1\funciones.h
+
+1523500284 source:e:\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
