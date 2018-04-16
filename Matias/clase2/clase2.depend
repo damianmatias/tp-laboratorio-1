@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521551592 source:c:\test\matias\clase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

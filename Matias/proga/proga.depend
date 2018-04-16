@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522069133 source:c:\test\matias\proga\main.c
+	<stdio.h>
+	<stdlib.h>
+

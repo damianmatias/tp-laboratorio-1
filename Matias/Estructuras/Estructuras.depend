@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523884488 source:c:\test\matias\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
